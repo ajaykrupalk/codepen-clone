@@ -15,6 +15,5 @@
 <li> sandbox to allow scripts
 <li> Top Pane uses a custom component called Editor
 <li> Editor receives attributes language, displayName, value, onChange
-<li> 
-
+<li> Use Controlled component from codemirror-react2 library
 </ul>

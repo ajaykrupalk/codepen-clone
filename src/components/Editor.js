@@ -34,7 +34,7 @@ export default function Editor(props) {
         </button>
       </div>
       <ControlledEditor
-        onBeforeChange={handleChange}
+        onBeforeChange={handleChange}//works similar to onChange
         value={value}
         className="code-mirror-wrapper"
         options={{
